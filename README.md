@@ -3,7 +3,7 @@ Requires Patchouli – designed for 1.20.1.
 
 I put this guide together based partly off of the incomplete Forbidden and Arcanus wiki and Epic Enchant's videos on it.
 
-
+Sources:
 
  Forbidden & Arcanus – Wiki
  
